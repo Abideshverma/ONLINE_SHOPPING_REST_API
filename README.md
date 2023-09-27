@@ -1,4 +1,8 @@
-# Online Shopping Application 
+# Online Shopping Application 🛒
+
+
+
+<img align="left" alt="Coding" width="153" src="Image/New Project 7 [6B583D8].png">
 
 This is a Collaborative project, we have built a rest API service for an Online Shopping Application with 5 Team members in around 5 days.
 
@@ -51,5 +55,26 @@ This is a Collaborative project, we have built a rest API service for an Online 
 * Tejas Vilas Medade
 * Sumedh Ambhore
 
+## Swagger UI 🛒
 
+<p align="center">
+  <img src="Image/shopclub_1.jpeg" width="auto" alt="accessibility text">
+</p>
 
+## Admin Controller 🛒
+
+<p align="center">
+  <img src="Image/shopclub_2.jpeg" width="auto" alt="accessibility text">
+</p>
+
+## User Controller 🛒
+
+<p align="center">
+  <img src="Image/shopclub_4.jpeg" width="auto" alt="accessibility text">
+</p>
+
+<p align="center">
+  <img src="Image/shopclub_5.jpeg" width="auto" alt="accessibility text">
+</p>
+
+## Thank You
