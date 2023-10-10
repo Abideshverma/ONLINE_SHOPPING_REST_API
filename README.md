@@ -1,4 +1,4 @@
-# Online Shopping Application 🛒
+# Online Shopping Application 
 
 
 This is a Collaborative project, we have built a rest API service for an Online Shopping Application with 5 Team members in around 5 days.
