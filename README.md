@@ -1,9 +1,6 @@
 # Online Shopping Application 🛒
 
 
-
-<img align="left" alt="Coding" width="153" src="Image/New Project 7 [6B583D8].png">
-
 This is a Collaborative project, we have built a rest API service for an Online Shopping Application with 5 Team members in around 5 days.
 
 ## Entity Relationship Diagram
