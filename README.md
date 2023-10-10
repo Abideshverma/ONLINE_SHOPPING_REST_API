@@ -55,26 +55,5 @@ This is a Collaborative project, we have built a rest API service for an Online 
 * Tejas Vilas Medade
 * Sumedh Ambhore
 
-## Swagger UI 🛒
-
-<p align="center">
-  <img src="Image/shopclub_1.jpeg" width="auto" alt="accessibility text">
-</p>
-
-## Admin Controller 🛒
-
-<p align="center">
-  <img src="Image/shopclub_2.jpeg" width="auto" alt="accessibility text">
-</p>
-
-## User Controller 🛒
-
-<p align="center">
-  <img src="Image/shopclub_4.jpeg" width="auto" alt="accessibility text">
-</p>
-
-<p align="center">
-  <img src="Image/shopclub_5.jpeg" width="auto" alt="accessibility text">
-</p>
 
 ## Thank You
