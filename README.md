@@ -1,7 +1,7 @@
 # Online Shopping Application 
 
 
-This is a Collaborative project, we have built a rest API service for an Online Shopping Application with 5 Team members in around 5 days.
+Developed this REST API for an Online Shopping Application. This API performs all the fundamental CRUD  operations of any Online Shopping Application platform with user validation at every step.  The system provides a range of essential functionalities to enhance the user experience when interacting with the  platform's e-commerce services.
 
 ## Entity Relationship Diagram
 
